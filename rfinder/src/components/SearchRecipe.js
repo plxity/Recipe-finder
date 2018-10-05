@@ -3,6 +3,7 @@ import {Form,FormGroup,FormControl,ControlLabel,Button} from 'react-bootstrap';
 import {connect} from 'react-redux';
 import {setRecipes} from '../actions';
 
+
 class SearchRecipe extends Component{
     constructor(){
         super();
