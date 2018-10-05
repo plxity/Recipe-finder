@@ -21,6 +21,11 @@ body{
     display: inline-block;
     text-align: left;
     padding-right: 10px;
-    width: 400px;
+    width: 480px;
 
+}
+.star{
+    cursor: pointer;
+    font-size: 20px;
+    margin-right: 15px;
 }
